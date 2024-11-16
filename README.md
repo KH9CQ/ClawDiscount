@@ -64,4 +64,8 @@ clawcloud提供多种方案：
 - 选择支付方式：支持支付宝等多种支付方式。
 - 完成购买：支付完成后，可通过 [claw.cloud](https://claw.cloud/?irclickid=Sv8WalRBbxyKWlDRw%3Az8ezTdUkCTdvwkUVJb0s0&irpid=5798032&irgwc=1)管理您的服务。
 
+### ClawCloud官网地址 (优惠码：9B2EQsvip)
+
+[https://claw.cloud/](https://claw.cloud/?irclickid=Sv8WalRBbxyKWlDRw%3Az8ezTdUkCTdvwkUVJb0s0&irpid=5798032&irgwc=1)
+
 > 以上就是关于爪云的详细介绍和购买流程。希望本指南能帮助您选择最适合您的VPS服务。
