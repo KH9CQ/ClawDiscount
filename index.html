@@ -20,14 +20,30 @@
             background-color: #ffffff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        h1, h2, h3 {
+        h1 {
             text-align: center;
             color: #4CAF50;
+            font-size: 2.5em;
             margin-top: 20px;
         }
-        h1 { font-size: 2.5em; }
-        h2 { font-size: 1.8em; }
-        h3 { font-size: 1.5em; }
+        h2 {
+            color: #4CAF50;
+            font-size: 1.8em;
+            margin-top: 20px;
+            text-align: left; /* 靠左显示 */
+        }
+        h3 {
+            color: #4CAF50;
+            font-size: 1.5em;
+            margin-top: 15px;
+            text-align: left; /* 靠左显示 */
+        }
+        .sub-title { /* 针对小一点的标题，如“主要优点：” */
+            font-size: 1.3em;
+            color: #333;
+            margin-top: 10px;
+            text-align: left;
+        }
         p {
             margin: 10px 0;
             text-align: justify;
@@ -89,7 +105,7 @@
         其主要提供高性价比的的VPS产品，节点线路包括：中国香港、新加坡、日本、德国、美国等。同时还有灵魂面甲、幻兽帕鲁、幸福工厂、英灵神殿游戏服务器。<br>
         已经上线30天免费快照备份，每天自动备份，可将VPS快速恢复到过去30天内的任意时间点，Windows实例自带正版授权，还都是1G的带宽，性价比拉满。</p>
 
-        <h3>主要优点：</h3>
+        <h3 class="sub-title">主要优点：</h3>
         <ul>
             <li>Intel ® Xeon ® Platinum可扩展处理器，基于KVM进行虚拟化。</li>
             <li>高可用SSD固态硬盘结合25 GiE网络和RDMA技术，提供单盘高达40000的随机读写能力。</li>
@@ -128,7 +144,7 @@
         <hr>
 
         <footer>
-     <p>提示：千万别忘记使用优惠折扣码：9B2EQsvip</p>
+            <p>提示：千万别忘记使用优惠折扣码：9B2EQsvip </p>
         </footer>
     </div>
 </body>
