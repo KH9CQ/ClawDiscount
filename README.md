@@ -17,7 +17,7 @@ ClawCloud又称爪云，新加坡云基础设施型企业，企业实体编号�
 - 每周 7 天、每天 24 小时提供免费工单支持服务
 - 多种支付方式支持，包括支付宝
 
-### ClawCloud官网地址
+### ClawCloud官网地址 (优惠码：9B2EQsvip)
 
 [https://claw.cloud/](https://claw.cloud/?irclickid=Sv8WalRBbxyKWlDRw%3Az8ezTdUkCTdvwkUVJb0s0&irpid=5798032&irgwc=1)
 
