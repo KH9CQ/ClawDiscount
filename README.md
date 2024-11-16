@@ -43,7 +43,18 @@ clawcloud提供多种方案：
 - 日本：联通4837直连、移动cmi直连、电信软银（联通移动很快乐）
 - 美国：美西:163线路（适合建站）
 - 其他线路具体可参考官方网站描述
+### 测试IP：
+
+- 8.219.195.163 https://lg.ap-southeast-1.claw.cloud/ 新加坡
+- 47.238.150.244 https://lg.cn-hongkong.claw.cloud/ 中国-香港
+- 47.74.34.123 https://lg.ap-northeast-1.claw.cloud 日本
+- 8.209.70.255 https://lg.eu-central-1.claw.cloud/ 德国-法兰克福
+- 47.253.157.212 https://lg.us-east-1.claw.cloud/ 美国东部-北弗吉尼亚州
+- 47.251.75.195 https://lg.us-west-1.claw.cloud/ 美国西部-北加利福尼亚州
+
 总结：中国香港最好，三网都能打；新加坡、日本对联通也非常友好；移动有日本可选；美国比较适合建站。
+
+
 
 ### ClawCloud官网直达 (优惠码：9B2EQsvip)
 
