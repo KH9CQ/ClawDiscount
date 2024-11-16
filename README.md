@@ -21,8 +21,21 @@ ClawCloud又称爪云，新加坡云基础设施型企业，企业实体编号�
 
 [https://claw.cloud/](https://claw.cloud/?irclickid=Sv8WalRBbxyKWlDRw%3Az8ezTdUkCTdvwkUVJb0s0&irpid=5798032&irgwc=1)
 
+## 二、方案选择
+clawcloud提供多种方案：
 
-## 二、线路推荐
+<a href="https://claw.cloud/products/vps?irclickid=Sv8WalRBbxyKWlDRw%3Az8ezTdUkCTdvygUVJb0s0&irpid=5798032&irgwc=1" target="_blank">
+  <img src="https://raw.githubusercontent.com/KH9CQ/ClawDiscount/refs/heads/main/img/claw.png" alt="Clawcloud">
+</a>
+
+地域：中国（香港）、亚太东南（新加坡）、亚太东北（日本）、美国东部（弗吉尼亚）、美国西部（硅谷）、欧洲中部（法兰克福）
+
+### ClawCloud官网直达 (优惠码：9B2EQsvip)
+
+[https://claw.cloud/vps](https://claw.cloud/products/vps?irclickid=Sv8WalRBbxyKWlDRw%3Az8ezTdUkCTdvygUVJb0s0&irpid=5798032&irgwc=1)
+
+
+## 三、线路推荐
 根据不同的运营商，以下是Claw的线路推荐：
 
 - 中国香港：最优质的选择，三网优化，去回程都是正价4837（同价位无敌般的存在）
@@ -32,17 +45,12 @@ ClawCloud又称爪云，新加坡云基础设施型企业，企业实体编号�
 - 其他线路具体可参考官方网站描述
 总结：中国香港最好，三网都能打；新加坡、日本对联通也非常友好；移动有日本可选；美国比较适合建站。
 
-## 三、方案选择
-clawcloud提供多种方案：
+### ClawCloud官网直达 (优惠码：9B2EQsvip)
 
-<a href="https://claw.cloud/products/vps?irclickid=Sv8WalRBbxyKWlDRw%3Az8ezTdUkCTdvygUVJb0s0&irpid=5798032&irgwc=1" target="_blank">
-  <img src="https://raw.githubusercontent.com/KH9CQ/ClawDiscount/refs/heads/main/img/claw.png" alt="Clawcloud">
-</a>
-
-地域：中国（香港）、亚太东南（新加坡）、亚太东北（日本）、美国东部（弗吉尼亚）、美国西部（硅谷）、欧洲中部（法兰克福）
+[https://claw.cloud/vps](https://claw.cloud/products/vps?irclickid=Sv8WalRBbxyKWlDRw%3Az8ezTdUkCTdvygUVJb0s0&irpid=5798032&irgwc=1)
 
 
-## 五、购买方法
+## 四、购买方法
 购买爪云VPS时，请遵循以下步骤以确保顺利进行：
 
 - 选择方案：根据需求和预算选择最合适的方案。
